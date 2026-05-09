@@ -1,3 +1,3 @@
 # Numpy
 Colege Project
-<h1>Adity Pagal</h1>
+<h1>Aditya</h1>
